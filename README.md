@@ -1,6 +1,6 @@
 # Neo4J-GDS-Project
 Neo4J Graph Data Base project of Employees Performance
- AGENT OF PROJECT  : Employee Performance Analysis with  Python  
+ AGENDA OF PROJECT  : Employee Performance Analysis with  Python  
                      programming in the Jupyter NoteBook, and to 
                      connect the Neo4j Graph data base with sandbox.
 The following insights are expected from this project.
